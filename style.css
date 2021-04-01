@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+  background-repeat: no-repeat;
+}
+h1{ 
+text-shadow: 2px 2px green;
+}
+#bio {
+  padding:20px;
+  font-size:18;
+  text-align:center;    
+}
+
+#welcome{
+font-family: 'courgette',cursive; 
+text-align: center;    
+}   
+
+
+.menu{
+list-style: none;
+font-family:  cursive;
+float:right;
+top:10px;
+right:30px;
+cursor:pointer;
+color:black;
+}
+#myname{
+font-family: 'courgette',cursive;    
+}
